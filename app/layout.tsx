@@ -18,6 +18,9 @@ const dmSans = DM_Sans({
 export const metadata: Metadata = {
   title: "TubeInsight — YouTube 분석 플랫폼",
   description: "API 키 없이 YouTube 채널, 비디오, 트렌드를 분석하세요.",
+  other: {
+    "google-adsense-account": "ca-pub-6428584424464624",
+  },
 };
 
 export default function RootLayout({
